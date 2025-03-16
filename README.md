@@ -9,6 +9,7 @@
   <img src="https://raw.githubusercontent.com/kris-nale314/vision-kitai/main/docs/images/logo.svg" alt="Vision-KitAI Logo" width="250"/>
 </p>
 
+
 <h1 align="center">👁️  Vision-KitAI  🧰</h1>
 <p align="center"><strong>Exploring and learning about Computer Vision AI technologies</strong></p>
 

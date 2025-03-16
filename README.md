@@ -6,11 +6,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kris-nale314/vision-kitai/main/docs/images/logo.svg" alt="Vision-KitAI Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/kris-nale314/vision-kitai/main/docs/images/logo.svg" alt="Vision-KitAI Logo" width="200"/>
 </p>
 
 
-<h1 align="center">👁️  Vision-KitAI  🧰</h1>
+<h1 align="center">  Vision-KitAI  </h1>
 <p align="center"><strong>Exploring and learning about Computer Vision AI technologies</strong></p>
 
 <p align="center">

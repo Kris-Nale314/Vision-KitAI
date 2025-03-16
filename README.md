@@ -1,12 +1,19 @@
-# 👁️        Vision-KitAI           🧰
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+<h1 align="center">👁️  Vision-KitAI  🧰</h1>
+<p align="center"><strong>Exploring and learning about Computer Vision AI technologies</strong></p>
+
+<p align="center">
+  <a href="https://github.com/kris-nale314/bytemesumai/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-alpha-orange" alt="Development Status"></a>
+</p>
 
 ## 🔍 A Learning Playground for Vision AI Technologies
 
